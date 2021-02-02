@@ -147,6 +147,6 @@ A. Prepare folder
     - **Edit parameters using argparse when running code**
 
 # Citations
-HistoGAN is an open-source library and is licensed under the GNU General Public License (v3). For questions contact Saeed Hassanpour at Saeed.Hassanpour@dartmouth.edu. If you are using this library please cite:
+HistoGAN is an open-source library and is licensed under the GNU General Public License (v3). If you are using this library please cite:
 
-```Jerry Wei, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, Jason Wei, Saeed Hassanpour, "Generative Image Translation for Data Augmentation in Colorectal Histopathology Images", Full Paper in Machine Learning for Health Workshop at NeurIPS, In Press, 2019.```
+```Jerry Wei, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, Jason Wei, Saeed Hassanpour, "Generative Image Translation for Data Augmentation in Colorectal Histopathology Images", Proceedings of Machine Learning for Health Workshop at NeurIPS, Vancouver, Canada, 2019.```
